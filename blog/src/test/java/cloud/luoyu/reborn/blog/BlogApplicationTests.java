@@ -1,10 +1,10 @@
-package cloud.luoyu.admin;
+package cloud.luoyu.reborn.blog;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AdminApplicationTests {
+class BlogApplicationTests {
 
     @Test
     void contextLoads() {
